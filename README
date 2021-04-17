@@ -1,0 +1,3 @@
+#Jungle Simulation
+Implemented a simulated food chain environment with predators, preys and plants, which also took into account factors such as diseases, mating patterns and the weather.
+Extensive use of inheritance
